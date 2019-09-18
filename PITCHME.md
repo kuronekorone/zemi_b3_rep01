@@ -22,12 +22,12 @@ JavaScriptとNode.jsの関係
 　
 \* 本節では、jsの基本的な仕様について述べる
 
-+++
++++?code=a1.html
 
 ### A-1 値と変数の基本
 
 #### Webブラウザでjsを利用してみよう
-?code=a1.html
+
 
 +++
 
