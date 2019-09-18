@@ -27,7 +27,7 @@ JavaScriptとNode.jsの関係
 ### A-1 値と変数の基本
 
 #### Webブラウザでjsを利用してみよう
----?code=a1.html
+?code=a1.html
 
 +++
 
