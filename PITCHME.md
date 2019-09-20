@@ -48,7 +48,17 @@ JavaScriptとNode.jsの関係
 
 +++?code=hello.rb
 
-#### [蛇足]Rubyでは
+#### [蛇足] Rubyでは
 
-  
++++
+
+### jsを書く場所
+- htmlに記述する場合
+- 別ファイルに記述する場合  
+
++++?code=a1.html
+
+#### htmlに記述する場合
+
+\<script\>\<\/script>の間に記入する
 
