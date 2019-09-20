@@ -87,3 +87,20 @@ JavaScriptとNode.jsの関係
 - undefined型 |
 
 #### typeof hoge で型が分かる
+
++++
+
+### 変数
+
+#### 変数の宣言
+
+``` javascript
+var hoge0;
+
+hoge1 = 1;
+
+let hoge2;
+
+const hoge3;
+```
+
