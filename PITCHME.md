@@ -114,4 +114,10 @@ const hoge3;
 - 乗算: *
 - 除算: /
 
++++ ?code=a3.html
+
++++ ?code=a3.js
+
 +++
+
+![output2](img/fig_a3.png)
