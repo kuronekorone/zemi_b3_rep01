@@ -52,7 +52,7 @@ JavaScriptとNode.jsの関係
 
 +++
 
-### jsを書く場所
+## jsを書く場所
 - htmlに記述する場合
 - 別ファイルに記述する場合  
 
@@ -61,4 +61,8 @@ JavaScriptとNode.jsの関係
 #### htmlに記述する場合
 
  < script > </ script >の間に記入する
+
++++?code=hello.js,hello.html
+
+#### 別ファイルに記述する場合
 
