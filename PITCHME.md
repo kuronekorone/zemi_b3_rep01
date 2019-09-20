@@ -121,3 +121,15 @@ const hoge3;
 +++
 
 ![output2](img/fig_a3.png)
+
++++
+
+### まとめ
+
+- JavaScriptはhtml上で動作するスクリプト言語
+- htmlに直書きするか、jsファイルを作成してhtmlで読み込む |
+- 値を保存し、管理する"変数"
+- 主要なデータ型3つは、number, string, boolean |
+- 変数計算をして、その値をhtml上に出力することができる
+
+
