@@ -63,7 +63,15 @@ JavaScriptとNode.jsの関係
  < script > </ script >の間に記入する
 
 +++?code=hello.js
-?code=hello.html
 
 #### 別ファイルに記述する場合
+
++++?code=hello.html
+
+#### scriptタグ内でソースファイルを指定
+
++++
+
+![output1](img/fig_a2.png)
+
 
