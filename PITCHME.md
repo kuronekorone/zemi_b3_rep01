@@ -74,4 +74,16 @@ JavaScriptとNode.jsの関係
 
 ![output1](img/fig_a2.png)
 
++++
 
+### いろいろな値
+- 数値 'number' 型 |
+    - 100, 3.14
+- 文字列 'string' 型 |
+    - 'Hello', "world"
+- 真偽値　'boolean' 型 |
+    - true, false
+- null型 |
+- undefined型 |
+
+#### typeof hoge で型が分かる
