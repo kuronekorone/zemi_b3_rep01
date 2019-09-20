@@ -60,8 +60,5 @@ JavaScriptとNode.jsの関係
 
 #### htmlに記述する場合
 
- ``` html
-  <script> </script>
- ```
- の間に記入する
+ **<script></script>の間に記入する**
 
