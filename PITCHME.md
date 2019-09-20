@@ -62,7 +62,8 @@ JavaScriptとNode.jsの関係
 
  < script > </ script >の間に記入する
 
-+++?code=hello.js&hello.html
++++?code=hello.js
+?code=hello.html
 
 #### 別ファイルに記述する場合
 
