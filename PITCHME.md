@@ -132,4 +132,20 @@ const hoge3;
 - 主要なデータ型3つは、number, string, boolean |
 - 変数計算をして、その値をhtml上に出力することができる
 
+---
+
+## 2-1 ソースコードの基本
+
++++
+
+#### 第一回にて実行したソースを分解してみる
+
+``` js
+require('http').createServer((rq,rs)=>{rs.end('Hello Node.js!');}).listen(3000);
+
+--- 
+
+## 2-2 HTMLファイルを使おう 
+
+
 
