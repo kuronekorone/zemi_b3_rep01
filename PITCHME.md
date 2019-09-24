@@ -145,6 +145,19 @@ require('http').createServer(
     (rq,rs)=>{rs.end('Hello Node.js!');}).listen(3000);
 ```
 
++++?code=2-01.js
+
+#### こんなかんじにできる
+
++++
+
+### Nodeで実行してみる
+
+``` shell
+$ node app.js
+```
+
+
 --- 
 
 ## 2-2 HTMLファイルを使おう 
