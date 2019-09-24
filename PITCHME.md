@@ -141,7 +141,8 @@ const hoge3;
 #### 第一回にて実行したソースを分解してみる
 
 ``` js
-require('http').createServer((rq,rs)=>{rs.end('Hello Node.js!');}).listen(3000);
+require('http').createServer(
+    (rq,rs)=>{rs.end('Hello Node.js!');}).listen(3000);
 ```
 
 --- 
