@@ -176,7 +176,7 @@ $ node app.js
 +++?code=2-01.js
 
 @[1](highright1)
-@[3](highright2)
+@[3,4,5](highright2)
 
 
 
