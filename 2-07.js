@@ -1,5 +1,7 @@
 const http = require('http');
 const fs = require('fs');
+var request;
+var response;
 
 var server = http.createServer(getFromClient);
 
