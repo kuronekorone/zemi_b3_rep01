@@ -189,7 +189,7 @@ $ node app.js
 +++?code=2-02.js
 
 +++
-
+![output4](img/fig_202.png)
 --- 
 
 ## 2-2 HTMLファイルを使おう 
